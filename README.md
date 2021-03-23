@@ -1,5 +1,3 @@
-Learn computer science and programming with help from an expert with years of professional experience.
-
 # Services
 
 * One-on-one - A completely customized and personal experience.
