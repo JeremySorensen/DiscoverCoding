@@ -1,4 +1,6 @@
-# What to Expect
+---
+title: What to Expect
+---
 
 Group sessions are organized into 6-8 week tracks covering different themes. The first few tracks will need to be completed in order (unless the student has equivalent
 prior experience). Later tracks will be grouped by difficulty and the tracks in any particular level can be done in any order.
