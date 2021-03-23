@@ -1,5 +1,5 @@
 ---
-title: Discover Code
+title: Discover Coding
 ---
 
 ## Services
