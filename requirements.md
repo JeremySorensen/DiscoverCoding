@@ -1,4 +1,6 @@
-## Requirements
+---
+title: Requirements
+---
 
 * A computer - Windows, Mac or Linux
 * An internet connection
