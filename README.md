@@ -1,4 +1,6 @@
-# Discover Coding
+---
+title: Discover Code
+---
 
 ## Services
 
