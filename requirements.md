@@ -1,6 +1,4 @@
----
-title: Requirements
----
+# Requirements
 
 * A computer - Windows, Mac or Linux
 * An internet connection
@@ -9,4 +7,4 @@ title: Requirements
 
 You will need to install software, but all tools are free and help will be provided getting set up.
 
-[Home](index.html)
+[Home](index.md)
