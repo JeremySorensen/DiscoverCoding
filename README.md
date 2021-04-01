@@ -1,2 +1,3 @@
 Website for DiscoverCoding tutoring services.
-[discovercoding.com]
+
+[discovercoding.com](https://discovercoding.com)
