@@ -9,4 +9,4 @@ title: Requirements
 
 You will need to install software, but all tools are free and help will be provided getting set up.
 
-[Home](README.md)
+[Home](index.html)
