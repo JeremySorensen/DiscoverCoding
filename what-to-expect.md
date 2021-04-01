@@ -8,4 +8,4 @@ prior experience). Later tracks will be grouped by difficulty and the tracks in 
 All needed tools will be provided. Ciriculum will consist of zoom lectures, workshops, videos, and lots and lots of links. Homework will be assigned and feedback
 will be provided. A small project will be completed by the end of a track.
 
-[Home](README.md)
+[Home](index.md)
