@@ -10,7 +10,7 @@ title: Discover Coding
 ## Pilot Program
 
 This program is under development. We are looking for students who are willing to try it out and give feedback in exchange for free instruction.
-For more details [email us](mailto://discovercoding@gmail.com){:target="_blank" rel="noopener"}.
+For more details [email us](mailto:discovercoding@gmail.com){:target="_blank" rel="noopener"}.
 
 ## More Information
 
